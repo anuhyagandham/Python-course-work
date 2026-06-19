@@ -1,0 +1,86 @@
+Python Features 
+
+ 1. Simple and Easy to Learn
+   * Easy syntax similar to English.
+   * Requires fewer lines of code.
+2. High-Level Language
+   * Hides low-level details like memory management.
+   * Focuses on problem-solving.
+3. Interpreted Language
+  * Executes code line by line.
+  * No separate compilation needed.
+4. Object-Oriented
+  * Supports classes and objects.
+  * Promotes code reusability.
+5. Platform Independent
+  * Write once, run anywhere.
+  * Works on Windows, Linux, and macOS.
+6. Dynamically Typed
+  * No need to declare variable data types.
+  * Type is assigned automatically.
+7. Open Source
+  * Free to download, use, and modify.
+8. Portable
+  * Programs can be moved between systems with minimal changes.
+9. Extensive Library Support
+  * Large collection of built-in modules and packages.
+10. Extensible
+  * Can be integrated with C, C++, Java, etc.
+11. Embeddable
+  * Python code can be embedded into other applications.
+12. Robust Exception Handling
+  * Helps handle runtime errors effectively.
+13. Automatic Memory Management
+  * Uses garbage collection to manage memory.
+14. Supports Multiple Programming Paradigms
+  * Procedural Programming
+  * Object-Oriented Programming
+  * Functional Programming
+15. Large Community Support
+  * Huge developer community and documentation.
+16. Rapid Application Development
+  * Faster coding, testing, and deployment.
+
+---
+ OOPS Concepts 
+
+ 1. Class
+  * A blueprint for creating objects.
+
+ 2. Object
+  * An instance of a class.
+
+ 3. Encapsulation
+  * Wrapping data and methods into a single unit (class).
+  * Provides data security.
+
+ 4. Abstraction
+  *Hiding implementation details and showing only essential features.
+ 
+ 5. Inheritance
+  * One class acquires properties and methods of another class.
+
+ 6. Polymorphism
+  * One interface, many forms.
+  * Same operation behaves differently for different data.
+
+ 7. Method Overloading
+  * Same method name with different arguments.
+  * Achieved using default arguments in Python.
+
+ 8. Method Overriding
+  * Child class redefines a method of the parent class.
+
+
+| Concept       | Definition                              |
+| ------------- | --------------------------------------- |
+| Class         | Blueprint for objects                   |
+| Object        | Instance of a class                     |
+| Encapsulation | Binding data and methods together       |
+| Abstraction   | Hiding implementation details           |
+| Inheritance   | Acquiring properties from another class |
+| Polymorphism  | One interface, many forms               |
+| Overloading   | Same method, different parameters       |
+| Overriding    | Redefining parent method in child class |
+
+
